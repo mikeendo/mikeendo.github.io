@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: mrmikeendo
+facebook: mikeendo
 #google:
   #plus: #username
   #analytics:
@@ -57,7 +57,7 @@ github: mikeendo
 
 
 # Comments
-disqus_shortname: mikeendo
+# disqus_shortname: mikeendo
 
 
 # Gems
