@@ -23,7 +23,7 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
+email: mail@mikeendo.com
 twitter: mrmikeendo
 facebook: mikeendo
 #google:
@@ -35,9 +35,9 @@ facebook: mikeendo
 #bing-verify:
 github: mikeendo
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: username
+linkedin: michael-endo-14162296
 #xing: username
-#instagram: username
+instagram: michael_endo
 #lastfm: username
 #tumblr: username
 #pinterest: username
