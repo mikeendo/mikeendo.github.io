@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-13T23:34:37-10:00</updated><id>http://localhost:4000/</id><title type="html">MikeEndo</title><subtitle></subtitle><entry><title type="html">dotvim</title><link href="http://localhost:4000/dotvim/" rel="alternate" type="text/html" title="dotvim" /><published>2020-05-01T00:00:00-10:00</published><updated>2020-05-01T00:00:00-10:00</updated><id>http://localhost:4000/dotvim</id><content type="html" xml:base="http://localhost:4000/dotvim/"></content><author><name></name></author><category term="vim" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/Vimlogo.svg" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-14T08:40:16-10:00</updated><id>http://localhost:4000/</id><title type="html">MikeEndo</title><subtitle></subtitle><entry><title type="html">dotvim</title><link href="http://localhost:4000/dotvim/" rel="alternate" type="text/html" title="dotvim" /><published>2020-05-01T00:00:00-10:00</published><updated>2020-05-01T00:00:00-10:00</updated><id>http://localhost:4000/dotvim</id><content type="html" xml:base="http://localhost:4000/dotvim/">&lt;p&gt;&lt;a href=&quot;https://github.com/mikeendo/dotvim&quot;&gt;&lt;img src=&quot;/assets/img/Vimlogo.svg&quot; alt=&quot;Dot Vim&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My personal vim config&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-tenants&quot;&gt;Basic tenants&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;All keybindings are in config/keybindings.vim&lt;/li&gt;
+  &lt;li&gt;Each plugin has it’s own config.vim file&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;quick-start&quot;&gt;Quick Start&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone git@github.com:mikeendo/dotvim.git ~/.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+ln -s ~/.vim/vimrc.vim ~/.vimrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Vim command
+:PluginInstall
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="vim" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/Vimlogo.svg" /></entry></feed>
