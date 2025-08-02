@@ -5,6 +5,9 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  // Use relative paths for static export
+  assetPrefix: './',
+  basePath: '',
 };
 
 export default nextConfig;
